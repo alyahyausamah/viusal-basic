@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="InvSys.exe" version="1.0.0.0" publicKeyToken="a451f6f3cc4c016a" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="Computer_PC_system_9462.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="InvSys" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="InvSys.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.Common" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.DataVisualization" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.ProcessingObjectModel" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.ReportViewer.WinForms" version="10.0.0.0" publicKeyToken="B03F5F7F11D50A3A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="InvSys.exe" size="632320">
+      <assemblyIdentity name="InvSys" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>qnXdNsmCW6D6f2I1FH59w7TePB8=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Computer_PC_system_9462.ico" size="67646">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>b0rKZPPrVkdPbW/Faj+wpELTLUA=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Database1.mdf" size="2359296" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>JGQkYb0A0jwdcftJ/nwvD4pzivs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Database1_log.ldf" size="516096" writeableType="applicationData">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>ws8ZnjBGYNQAKZzW4Ao1ZvMLCBI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="InvSys.exe.config" size="553">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>gtXN8ytwm1gPPPZncs1U0dMjPJY=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-QFO5C0R\osama" issuerKeyHash="28754918b6201f3eb24acfa2b977a106f008f498" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>GphSpAwhDoITSK6dJHxjpkvQ8S0=</DigestValue></Reference></SignedInfo><SignatureValue>h5XWlspdvAtlt/PMZKM7gH0kACP4b3YE0gh01XQCmughpUkqIoXwe3UUCJJNLE4oRLGhDjQHlG29G9oBXYAqYiUY4zh7jSia2GkJBcW5XE9PmkmChpK8F44AvVHlOKQyNEzUVDqz3KMCKJ+UCOVTivzNhJC76SWbXhDCXKqDdAI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vzaI5UA0j2fMcFVBmuzHnzln+WoZY4uP0Rcj9bzQiNcr8i5ff+zdOurlSXx8HDcJ4A5YB7hcbSbT/U29UnID3y6ihG9I5vwELekI5HYF3VSDOJBhfe1OmqVRQHerjg5rheBpGixPyiZlDEfEqlwh6uwm1z6jfX22qd0xzfYI350=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2df1d04ba6637c249dae4813820e210ca452981a" Description="" Url=""><as:assemblyIdentity name="InvSys.exe" version="1.0.0.0" publicKeyToken="a451f6f3cc4c016a" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-QFO5C0R\osama</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>xgOtSzplCkRCtu/FTt/eq/qjM38=</DigestValue></Reference></SignedInfo><SignatureValue>Z3feAVtuE1ZbKOMjgV7RhFDOc6LX5KVoTUp2IHetp2qcoJUPMR8C12dHyxLIouRBRQnVIET1+fWLQd8SqT/uVrWFwcz9h6pn9enoZ8tB0QvqBFnBOA84c8zmAiObBA3O5VffMWcvlugtOoV+N4UV9IBayKUUIb4Mn0YDhSdTlLg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vzaI5UA0j2fMcFVBmuzHnzln+WoZY4uP0Rcj9bzQiNcr8i5ff+zdOurlSXx8HDcJ4A5YB7hcbSbT/U29UnID3y6ihG9I5vwELekI5HYF3VSDOJBhfe1OmqVRQHerjg5rheBpGixPyiZlDEfEqlwh6uwm1z6jfX22qd0xzfYI350=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQUYIuWNKFfoFFSpz5Kv6uEzANBgkqhkiG9w0BAQUFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFEARgBPADUAQwAwAFIAXABvAHMAYQBtAGEwHhcNMjEwNDExMTYwNjE1WhcNMjIwNDExMjIwNjE1WjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAFEARgBPADUAQwAwAFIAXABvAHMAYQBtAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL82iOVANI9nzHBVQZrsx585Z/lqGWOLj9EXI/W80IjXK/IuX3/s3Trq5Ul8fBw3CeAOWAe4XG0m0/1NvVJyA98uooRvSOb8BC3pCOR2Bd1UgziQYX3tTpqlUUB3q44Oa4XgaRosT8omZQxHxKpcIersJtc+o319tqndMc32CN+dAgMBAAEwDQYJKoZIhvcNAQEFBQADgYEAkNDXO6sMMoVOQsf06u9yHtNMaZzYranar5OCLIbLdn5YziwDVeFSZzuDIlai3K7i5LCC1Z3SI+iiNhnuV4N/+85umSwOdsVjuPjOJqjzT9bdZJgwwQ+Lb1K0d66l96PV5TljdQu9Do4PyWSp06139MD8HQsX3b7WCxg+ssF8U7w=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

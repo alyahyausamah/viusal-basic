@@ -1,0 +1,52 @@
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\bin\Debug\Database1.mdf
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\bin\Debug\Database1_log.ldf
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\bin\Debug\InvSys.exe.config
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\bin\Debug\InvSys.exe
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\bin\Debug\InvSys.pdb
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\bin\Debug\InvSys.xml
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.DBform.resources
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.EnterInfo.resources
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.Form1.resources
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.Resources.resources
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.vbproj.GenerateResource.Cache
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.exe
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.xml
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.pdb
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.vbprojResolveAssemblyReference.cache
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\InvSys.ReportForm.resources
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\RdlCompile.cache
+C:\Users\osama\Documents\Visual Studio 2010\Projects\InvSys\InvSys\obj\x86\Debug\RdlCompile.compiled
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\InvSys.exe.config
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.exe
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.xml
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.pdb
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\Database1.mdf
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\Database1_log.ldf
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\InvSys.exe.manifest
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\InvSys.application
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\InvSys.exe
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\InvSys.pdb
+C:\Users\osama\Desktop\InvSys\InvSys\bin\Debug\InvSys.xml
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.vbprojResolveAssemblyReference.cache
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.DBform.resources
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.EnterInfo.resources
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.Form1.resources
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.Resources.resources
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.ReportForm.resources
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.vbproj.GenerateResource.Cache
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\RdlCompile.cache
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\RdlCompile.compiled
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.exe.manifest
+C:\Users\osama\Desktop\InvSys\InvSys\obj\x86\Debug\InvSys.application
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.vbproj.AssemblyReference.cache
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.vbproj.SuggestedBindingRedirects.cache
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.DBform.resources
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.EnterInfo.resources
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.Form1.resources
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.Resources.resources
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.ReportForm.resources
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.vbproj.GenerateResource.cache
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.vbproj.CoreCompileInputs.cache
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.exe
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.xml
+C:\Users\osama\Desktop\OLDProjects\InvSys\InvSys\obj\x86\Debug\InvSys.pdb
